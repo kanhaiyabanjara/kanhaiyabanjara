@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanhaiya Banjara</h1>
-<h3 align="center"> - <i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i></h3><br>
+<h3 > - <i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i></h3><br>
 
 [![](https://visitcount.itsvg.in/api?id=kanhaiyabanjara&icon=0&color=0)](https://visitcount.itsvg.in)
 
